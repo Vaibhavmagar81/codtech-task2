@@ -1,3 +1,10 @@
+**Name: Vaibhav Magar<br>
+Company:CODTECH IT SOLUTIONS <br>
+ID:CT4CSEH6043 <br>
+Domain:Cyber Security <br>
+Duration:1 Aug to 1 Sep <br>
+Mentor:Muzammil Ahmed <br>**
+
 # codtech-task2
 ## Basic Vulnerability Scanning Tool <br>
 ### Overview:
@@ -12,6 +19,6 @@ This project is a simple Python-based vulnerability scanning tool designed to id
 - Software Fingerprinting: Checks the web server's software and version using the HTTP Server header.
 - Error Handling: Provides detailed error messages if there are issues connecting to the target or scanning ports.
 
-### Example Output:
+### Output:
 ![CODTECH Task 2](https://github.com/user-attachments/assets/df49e46d-ed0f-475c-ae8a-0c1e24f758ba)
 
