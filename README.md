@@ -1,5 +1,5 @@
 # codtech-task2
-Basic Vulnerability Scanning Tool
+**#Basic Vulnerability Scanning Tool**
 Overview:
 This project is a simple Python-based vulnerability scanning tool designed to identify common security vulnerabilities in a target network or web application. The tool performs two main tasks:
 
