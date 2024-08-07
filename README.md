@@ -1,7 +1,7 @@
 **Name: Vaibhav Magar<br>
 Company:CODTECH IT SOLUTIONS <br>
 ID:CT4CSEH6043 <br>
-Domain:Cyber Security <br>
+Domain:Cyber Security and Ethical Hacking <br>
 Duration:1 Aug to 1 Sep <br>
 Mentor:Muzammil Ahmed <br>**
 
