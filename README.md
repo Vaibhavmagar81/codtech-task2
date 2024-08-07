@@ -1,6 +1,6 @@
 # codtech-task2
-**#Basic Vulnerability Scanning Tool**
-Overview:
+##Basic Vulnerability Scanning Tool<br>
+###Overview:
 This project is a simple Python-based vulnerability scanning tool designed to identify common security vulnerabilities in a target network or web application. The tool performs two main tasks:
 
 1.Port Scanning: Uses Nmap to scan the target machine for open ports, specifically in the range of 1-1024. This helps identify services running on the target and their potential vulnerabilities.
